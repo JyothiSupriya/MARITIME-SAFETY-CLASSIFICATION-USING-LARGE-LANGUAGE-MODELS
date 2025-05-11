@@ -2,16 +2,15 @@
 
 1. Install Ollama
 
-```bash
 curl -fsSL https://ollama.com/install.sh | sh
 
 2. Start the Ollama server
-```bash
+
 ollama serve &
 This runs the server in the background 
 
 3. Pull your models
-```bash
+
 ollama pull llama3.2
 ollama pull gemma7b
 ollama pull mistral7b
