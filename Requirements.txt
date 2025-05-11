@@ -1,0 +1,17 @@
+# Data handling
+pandas>=1.3
+numpy>=1.21
+
+# Progress bar
+tqdm>=4.60
+
+# Machine-learning metrics & stats
+scikit-learn>=1.0
+statsmodels>=0.13
+
+# Visualization
+matplotlib>=3.4
+seaborn>=0.11
+
+# Excel I/O
+openpyxl>=3.0
